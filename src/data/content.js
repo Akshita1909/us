@@ -149,7 +149,7 @@ export const gallery = [
   { id: "g2", src: "/media/photos/ponta-sahib-bridge-1.jpg", caption: "That drive to Ponta Sahib" },
   { id: "g3", src: "/media/photos/ponta-sahib-bridge-2.jpg", caption: "Same bridge, different frame" },
   { id: "g4", src: "/media/photos/palm-trees-ethnic.jpg", caption: "One faluda, two straws" },
-  { id: "g5", src: "/media/photos/studio-balloons.jpg", caption: "Your birthday, 2024" },
+  { id: "g5", src: "/media/photos/birthday.png", caption: "Your birthday, 2024" },
   { id: "g6", src: "/media/photos/oldschool-neon.jpg", caption: "Old School, at Social" },
   { id: "g7", src: "/media/photos/garden-story.png", caption: "A random day, my favourite kind" },
   { id: "g8", src: "/media/photos/mirror-hug-today.jpg", caption: "Us, today" },
