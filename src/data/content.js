@@ -133,7 +133,7 @@ export const timeline = [
     date: "2025-07-27",
     title: "Your Birthday, 2025",
     description: "we are obsessed with each other, honestly.",
-    media: { type: "photos", src: "/media/photos/birthday2025.png", caption: "27 July 2025" },
+    media: { type: "image", src: "/media/photos/birthday2025.png", caption: "27 July 2025" },
   },
   {
     id: "t9",
