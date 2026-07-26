@@ -129,6 +129,13 @@ export const timeline = [
     },
   },
   {
+    id: "t8b",
+    date: "2025-07-27",
+    title: "Your Birthday, 2025",
+    description: "we are obsessed with each other, honestly.",
+    media: { type: "video", src: "/media/videos/birthday2025.mp4", caption: "27 July 2025" },
+  },
+  {
     id: "t9",
     date: "2026-07-27",
     title: "Today",
@@ -158,7 +165,7 @@ export const videos = [
   {
     id: "v2",
     src: "/media/videos/clip-2.mov",
-    poster: "/media/photos/studio-balloons.jpg",
+    poster: "/media/photos/birthday.png",
     caption: "my POV",
   },
 ];
